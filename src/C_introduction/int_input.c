@@ -1,5 +1,4 @@
 //Prints an integer typed by the user.
-
 #include <stdio.h>
 
 void main() {

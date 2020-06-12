@@ -1,5 +1,4 @@
 //Prints de result of an integer division of two ints typed by the user.
-
 #include <stdio.h>
 
 void main() {

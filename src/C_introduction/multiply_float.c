@@ -1,5 +1,4 @@
 //Multiply two floats typed by the user.
-
 #include <stdio.h>
 
 void main() {

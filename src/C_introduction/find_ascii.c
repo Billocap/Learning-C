@@ -1,5 +1,4 @@
 //Prints the ASCII code of the char typed by the user.
-
 #include <stdio.h>
 
 void main() {

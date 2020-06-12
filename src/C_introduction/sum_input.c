@@ -1,5 +1,4 @@
 //Returns the sum of the integers typed by user.
-
 #include <stdio.h>
 
 void main() {

@@ -1,5 +1,4 @@
 //Simple desmonstration of the size in bytes of each data type.
-
 #include <stdio.h>
 
 void main() {
