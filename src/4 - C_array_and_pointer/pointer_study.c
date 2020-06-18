@@ -16,9 +16,9 @@ void main() {
     }
 
     //Using memory allocation.
-    int *data;
+    char *data;
 
-    data = (int * ) calloc(10, sizeof(int));
+    data = (char * ) calloc(10, sizeof(char));
 
     if ( data == NULL ) {
         printf("Unable the allocate memory");
